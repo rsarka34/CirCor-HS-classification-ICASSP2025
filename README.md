@@ -4,7 +4,7 @@
 
 **Authors: Ayushi Pal, Arka Roy, Udit Satija**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/CirCor-HS-classification-ICASSP2025/blob/main/model/ModelICASSP2025.ipynb)
 [![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-green)](https://ieeexplore.ieee.org/abstract/document/10889389)
 
 # Abstract
