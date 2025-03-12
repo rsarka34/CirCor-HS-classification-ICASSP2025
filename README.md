@@ -40,7 +40,7 @@ Heart murmurs are a prevalent indication of cardiovascular diseases and can offe
 
 
 # Cite as
-A. Pal, A. Roy and U. Satija, "A Unified Joint Contrastive Triplet Loss with Temporal and Frequency Signal Fusion for Diagnosing Heart Murmurs," ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10889389.
+A. Pal, A. Roy and U. Satija, "A Unified Joint Contrastive Triplet Loss with Temporal and Frequency Signal Fusion for Diagnosing Heart Murmurs," *ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5, doi: 10.1109/ICASSP49660.2025.10889389.
 
 ```bibtex
 @INPROCEEDINGS{10889389,
