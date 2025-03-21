@@ -7,6 +7,8 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/CirCor-HS-classification-ICASSP2025/blob/main/model/ModelICASSP2025.ipynb)
 [![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-green)](https://ieeexplore.ieee.org/abstract/document/10889389)
 
+<img width="1501" alt="Screenshot 2025-03-21 at 11 07 14 AM" src="https://github.com/user-attachments/assets/25c31f42-cb01-4051-a92a-cee44998509f" />
+
 # Abstract
 <p align="justify">
 Heart murmurs are a prevalent indication of cardiovascular diseases and can offer valuable insights into early cardiac abnormalities. For the prompt diagnosis and treatment of any cardiac problems, their early identification and examination are essential for reducing the death risks. In this paper, we introduce the joint contrastive triplet loss for fusing the cross-domain and intra-domain embeddings obtained from the time and frequency signals to diagnosis of heart murmurs. For this, we examine the phonocardiogram (PCG) signals given in the circor digiscope heart sound database for three-class classification i.e., murmur present (HMP), murmur absent (HMA), and murmur unknown (HMU). The outcomes of the experiment demonstrate that the proposed work outperforms the existing works and attains an accuracy of 89.87% for three classes, along with additional performance measures such as 90.08% precision, 89.87% recall, and 89.89% F1-score.
