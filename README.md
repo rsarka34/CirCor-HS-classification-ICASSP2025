@@ -28,7 +28,7 @@ Heart murmurs are a prevalent indication of cardiovascular diseases and can offe
 
 # Results
 <p align="center">
-<img width="688" alt="Screenshot 2025-03-12 at 10 29 45 AM" src="https://github.com/user-attachments/assets/a582cc86-dc66-463a-ac5f-ec80ca22efe0" />
+![image](https://github.com/user-attachments/assets/28d87bca-bdd0-445f-a968-c142376915eb)
 </p>
 
 <p align="center">
