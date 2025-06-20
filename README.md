@@ -6,7 +6,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/CirCor-HS-classification-ICASSP2025/blob/main/model/ModelICASSP2025.ipynb)
 [![Paper Link](https://img.shields.io/badge/Paper%20Link-IEEE%20Xplore-green)](https://ieeexplore.ieee.org/abstract/document/10889389)
-
+[![Paper Link](https://img.shields.io/badge/Supplementary-material-red)](https://github.com/rsarka34/CirCor-HS-classification-ICASSP2025/blob/main/PPT/ICASSP_slides%20(2).pdf)
 <img width="1501" alt="Screenshot 2025-03-21 at 11 07 14 AM" src="https://github.com/user-attachments/assets/25c31f42-cb01-4051-a92a-cee44998509f" />
 
 # Abstract
